@@ -27,12 +27,12 @@ npm install
 ---
 
 ## FASE 2: DATABASE ARKITEKTUR (FIREWALLEN)
-Frontend'en er bare et visuelt lag. Den reelle motor ligger i databasen. Du skal oprette den korrekte tabel-struktur, ellers crasher API'et.
+Du skal oprette den korrekte tabel-struktur, ellers crasher API'et.
 
 1. Log ind på dit webhotel og find **MySQL**.
 2. Opret en ny, tom MySQL-database.
 3. Åbn databasen.
-4. Gå til **SQL**-fanen i databasen, indsæt følgende kode og kør den:
+4. Gå til **SQL**-fanen i databasen, indsæt følgende kode og tryk go, en ad gangen:
 
 <img width="1193" height="587" alt="Screenshot 2026-04-24 at 11 35 45" src="https://github.com/user-attachments/assets/8c397e2b-4694-4a4c-a5ab-66bd31de5f1c" />
 
