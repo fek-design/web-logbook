@@ -26,7 +26,7 @@ npm install
 
 ---
 
-## FASE 2: DATABASE ARKITEKTUR (FIREWALLEN)
+## FASE 2: DATABASE ARKITEKTUR
 Du skal oprette den korrekte tabel-struktur, ellers crasher API'et.
 
 1. Log ind på dit webhotel og find **MySQL**.
@@ -112,7 +112,7 @@ Det skal se sådan ud:
 
 ---
 
-## FASE 6: INITIEL SETUP (DAY 1)
+## FASE 6: INITIEL SETUP
 Når appen er live, skal den klargøres i Admin-panelet.
 
 1. Gå til dit domæne i browseren.
